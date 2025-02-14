@@ -1,7 +1,3 @@
-# 💫 About Me:
-👋 Hi, I’m @Bekzhanizb<br>👀 I’m interested in working code<br>🌱 I’m currently learning html and python<br>💞️ I’m looking to collaborate on google<br>📫 How to reach me with e-mail
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/U8mMFJBY) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/bekzhanizb006/) 
 

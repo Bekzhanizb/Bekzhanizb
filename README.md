@@ -12,7 +12,7 @@
 
 ## 💻 Tech Stack
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,python,postgres,mysql,docker" />
+<img src="https://skillicons.dev/icons?i=java,spring,go,nodejs,python,postgres,mysql,docker" />
 </p>
 
 ---

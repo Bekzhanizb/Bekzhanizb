@@ -1,38 +1,12 @@
-<h1 align="center">Bekzhan</h1>
-<h3 align="center">AI Enthusiast • Backend Developer • 🇰🇿</h3>
+# Bekzhan Izbassar
 
----
+I'm a Digital Engineering student at Narxoz University. I'm interested in backend development with Java and Go, DevOps, and site reliability engineering. I'm looking for a spring 2027 internship where I can work on services, deployment, or observability.
 
-## 🧠 About Me
-- 🎓 Digital Engineering student (Narxoz)
-- 💻 Java & Backend Developer
-- 🚀 Building **Dreamy Focus** (AI habit tracker)
+## Selected projects
 
----
-
-## 💻 Tech Stack
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,go,nodejs,python,postgres,mysql,docker" />
-</p>
-
----
-
-## 🚀 Projects
-- **Dreamy Focus** – Habit tracker  
-- **LibGDX Game** – working build  
-- **Web Apps** – PHP + PostgreSQL  
-
----
-
-## 📊 Stats
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=Bekzhanizb&show_icons=true&hide_border=true" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bekzhanizb&hide_border=true" height="150"/>
-</p>
-
----
-
-## 🌐 Contacts
-- Discord: https://discord.gg/U8mMFJBY  
-- Instagram: https://instagram.com/bekzhanizb006  
-
+| Project | What to look at |
+| --- | --- |
+| [Observability Lab](https://github.com/Bekzhanizb/alertsgrafana) | A Spring Boot demo with a Docker Compose monitoring stack. Prometheus alert rules cover availability, error rates, and p95 latency. |
+| [Task Manager Backend](https://github.com/Bekzhanizb/TaskManagerBackend) | A Go backend for a task manager using Gorilla Mux, GORM, and PostgreSQL. |
+| [HR Management System](https://github.com/Bekzhanizb/HR-Management-System) | A Java 17 and Spring Boot coursework project. |
+| [AgentNest](https://github.com/Bekzhanizb/AgentNest) | A pre-alpha desktop project with an experimental local notes agent using Ollama. The notes workflow asks for folder access and produces a summary with links to its sources. |

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-labelledby="title desc">
+<title id="title">Bekzhan Izbassar — Digital Engineering student</title>
+<desc id="desc">Backend development, observability, and applied AI. Narxoz University.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1728"/><stop offset="1" stop-color="#142e42"/></linearGradient></defs>
+<rect width="1000" height="260" rx="18" fill="url(#bg)"/>
+<path d="M760 0v260M840 0v260M920 0v260M700 50h300M700 130h300M700 210h300" stroke="#294557" stroke-opacity=".45"/>
+<path d="M750 176h60v-65h70v-46h80" fill="none" stroke="#57d4c6" stroke-width="3"/>
+<g fill="#142e42" stroke="#57d4c6" stroke-width="3"><circle cx="750" cy="176" r="7"/><circle cx="810" cy="111" r="7"/><circle cx="880" cy="65" r="7"/><circle cx="960" cy="65" r="7"/></g>
+<rect x="40" y="40" width="4" height="176" rx="2" fill="#57d4c6"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="64" y="68" fill="#7be4d6" font-size="13" letter-spacing="2">DIGITAL ENGINEERING · NARXOZ UNIVERSITY</text>
+<text x="62" y="124" fill="#f0f6fc" font-size="43" font-weight="700">Bekzhan Izbassar</text>
+<text x="64" y="161" fill="#bdceda" font-size="19">Backend · Observability · Applied AI</text>
+<g font-size="13" fill="#d9e7ef"><rect x="64" y="189" width="68" height="28" rx="14" fill="#234157"/><text x="84" y="208">Java</text><rect x="142" y="189" width="54" height="28" rx="14" fill="#234157"/><text x="160" y="208">Go</text><rect x="206" y="189" width="104" height="28" rx="14" fill="#234157"/><text x="223" y="208">TypeScript</text></g>
+</g></svg>
